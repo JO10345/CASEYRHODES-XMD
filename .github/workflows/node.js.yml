@@ -1,5 +1,3 @@
-name: SUBZERO-MD-X-MR-FRANK
-
 on:
   workflow_dispatch:
 
