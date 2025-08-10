@@ -56,8 +56,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                     thumbnailUrl: "https://files.catbox.moe/y3j3kl.jpg",
                     mediaType: 1,
                     renderLargerThumbnail: true,
-                    showAdAttribution: true,
-                    sourceUrl: "https://github.com/caseyweb/CASEYRHODES-XMD"
+                    showAdAttribution: true
                 }
             }
         }, { quoted: fakeContact });
